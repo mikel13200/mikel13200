@@ -6,7 +6,7 @@
 #### Looking for FiveM Developer
 ![Looking for FiveM Developer](https://pbs.twimg.com/profile_banners/918484484764327936/1621106207/600x200)
 
-I'm currently studying BSIT and im just a simple person who love coding.
+I'm currently studying BSIT and im just a simple person who loves coding.
 
 Skills: LUA
 
