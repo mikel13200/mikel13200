@@ -14,11 +14,11 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mikel13200&label=Profile%20Views&color=8b0000&style=flat-square" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=mikel13200&label=Profile%20Views&color=8b0000&style=for-the-badge" alt="views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/mikel13200?label=Followers&style=flat-square&color=8b0000" alt="followers"/>
+<img src="https://img.shields.io/github/followers/mikel13200?label=Followers&style=for-the-badge&color=8b0000&labelColor=1a0000" alt="followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/mikel13200?label=Stars&style=flat-square&color=8b0000" alt="stars"/>
+<img src="https://img.shields.io/github/stars/mikel13200?label=Stars&style=for-the-badge&color=8b0000&labelColor=1a0000" alt="stars"/>
 
 </div>
 
@@ -58,24 +58,89 @@ const bnk: Developer = {
 
 <table>
 <tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mikel13200&show_icons=true&hide_border=true&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" width="100%" alt="stats"/>
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Commits-1.2k+-DC143C?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0000"/>
+<br/><sub><b>Total Commits</b></sub>
 </td>
-<td width="50%">
-
-<img src="https://streak-stats.demolab.com?user=mikel13200&hide_border=true&background=0d1117&stroke=dc143c&ring=dc143c&fire=dc143c&currStreakLabel=dc143c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" width="100%" alt="streak"/>
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Repos-42+-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0000"/>
+<br/><sub><b>Public Repos</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/PRs-186-A00000?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0000"/>
+<br/><sub><b>Pull Requests</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Issues-94-660000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0000"/>
+<br/><sub><b>Issues Closed</b></sub>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikel13200&layout=compact&hide_border=true&title_color=dc143c&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="60%" alt="top langs"/>
+<br/>
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=mikel13200&hide_border=true&background=0d1117&stroke=dc143c&ring=dc143c&fire=dc143c&currStreakLabel=dc143c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" width="70%" alt="streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mikel13200&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="95%" alt="trophies"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💻 &nbsp; Top Languages
+
+<img src="https://img.shields.io/badge/TypeScript-32%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a0000"/>
+<img src="https://img.shields.io/badge/JavaScript-24%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a0000"/>
+<img src="https://img.shields.io/badge/Python-18%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0000"/>
+<br/>
+<img src="https://img.shields.io/badge/Rust-12%25-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=1a0000"/>
+<img src="https://img.shields.io/badge/Go-9%25-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=1a0000"/>
+<img src="https://img.shields.io/badge/CSS-5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a0000"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 &nbsp; Achievements
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🔥-Streak%20Hero-DC143C?style=for-the-badge&labelColor=1a0000"/>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/⚡-Speed%20Coder-8B0000?style=for-the-badge&labelColor=1a0000"/>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🌟-Star%20Collector-A00000?style=for-the-badge&labelColor=1a0000"/>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🚀-Launch%20Master-660000?style=for-the-badge&labelColor=1a0000"/>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/💎-Code%20Quality-4A0000?style=for-the-badge&labelColor=1a0000"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯-Bug%20Hunter-DC143C?style=for-the-badge&labelColor=1a0000"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📚-Lifelong%20Learner-8B0000?style=for-the-badge&labelColor=1a0000"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🤝-Open%20Source-A00000?style=for-the-badge&labelColor=1a0000"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎨-UI%20Wizard-660000?style=for-the-badge&labelColor=1a0000"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⚙️-System%20Builder-4A0000?style=for-the-badge&labelColor=1a0000"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -108,8 +173,8 @@ const bnk: Developer = {
 > A blazing-fast UI component library built for indie hackers. Drop-in, fully themeable, accessibility-first.
 
 <p align="center">
-<img src="https://img.shields.io/badge/⭐-1.2k-DC143C?style=flat-square"/>
-<img src="https://img.shields.io/badge/🍴-184-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-1.2k-DC143C?style=flat-square&labelColor=1a0000"/>
+<img src="https://img.shields.io/badge/🍴-184-8B0000?style=flat-square&labelColor=1a0000"/>
 </p>
 
 </td>
@@ -126,8 +191,8 @@ const bnk: Developer = {
 > Lightning-fast SQL query analyzer written in Rust. Profile, optimize, and visualize execution plans from your terminal.
 
 <p align="center">
-<img src="https://img.shields.io/badge/⭐-892-DC143C?style=flat-square"/>
-<img src="https://img.shields.io/badge/🍴-67-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-892-DC143C?style=flat-square&labelColor=1a0000"/>
+<img src="https://img.shields.io/badge/🍴-67-8B0000?style=flat-square&labelColor=1a0000"/>
 </p>
 
 </td>
@@ -146,8 +211,8 @@ const bnk: Developer = {
 > Browser-based pixel art editor with real-time collab. Frame-by-frame animation, layers, ug export sa GIF/MP4.
 
 <p align="center">
-<img src="https://img.shields.io/badge/⭐-2.4k-DC143C?style=flat-square"/>
-<img src="https://img.shields.io/badge/🍴-312-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-2.4k-DC143C?style=flat-square&labelColor=1a0000"/>
+<img src="https://img.shields.io/badge/🍴-312-8B0000?style=flat-square&labelColor=1a0000"/>
 </p>
 
 </td>
@@ -164,8 +229,8 @@ const bnk: Developer = {
 > Self-hosted AI assistant nga nag-aggregate sa multiple LLMs. One API, choose your brain.
 
 <p align="center">
-<img src="https://img.shields.io/badge/⭐-3.1k-DC143C?style=flat-square"/>
-<img src="https://img.shields.io/badge/🍴-428-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-3.1k-DC143C?style=flat-square&labelColor=1a0000"/>
+<img src="https://img.shields.io/badge/🍴-428-8B0000?style=flat-square&labelColor=1a0000"/>
 </p>
 
 </td>
@@ -178,11 +243,11 @@ const bnk: Developer = {
 
 ### 🌐 &nbsp; Let's Connect
 
-<a href="https://github.com/mikel13200"><img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-660000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-A00000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-DC143C?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-4A0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/mikel13200"><img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-660000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-A00000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-DC143C?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a0000"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-4A0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0000"/></a>
 
 <br/><br/>
 
